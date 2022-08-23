@@ -1,4 +1,4 @@
-# Traditional-Chinese-Python-
+# Traditional-Chinese-Python-script
 一個盡量用繁體中文寫的眼鏡蛇文檔和眼鏡蛇腳本。
 
 我不是很喜歡用中文寫代碼，所以我寫了這個腳本，用以紀錄用繁中寫代碼的後果和觀感。列表、字典和函數等等，def, if等判斷式沒法用中文替代，甚是可惜。
